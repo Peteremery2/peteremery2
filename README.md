@@ -8,7 +8,7 @@
   - Azure Sentinel global attacks project
   - [JWipe (Disk Wiping Utility Project)](https://github.com/Peteremery2/JWipeProject)
  
-  - {Nessus Vulnerability Management Project}(https://github.com/Peteremery2/Nessusscanproject)
+  - [Nessus Vulnerability Management Project)](https://github.com/Peteremery2/Nessusscanproject)
 
 <h2>👨🏻‍🎓 Certifications </h2>
 
