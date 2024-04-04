@@ -6,7 +6,7 @@
 
 - <b>PowerShell</b>
   - Azure Sentinel global attacks project
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [JWipe (Disk Wiping Utility Project)](https://github.com/Peteremery2/JWipeProject)
 
 <h2>👨🏻‍🎓 Certifications </h2>
 
