@@ -24,11 +24,13 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/peteremery7445
 [linkedin]: https://linkedin.com/in/peteremery2
+[Gmail]: thepeteremery@gmail.com
 
 
 
