@@ -30,7 +30,7 @@
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/peteremery7445
 [linkedin]: https://linkedin.com/in/peteremery2
-[Gmail]: thepeteremery@gmail.com
+[Gmail]: mailto:thepeteremery@gmail.com
 
 
 
