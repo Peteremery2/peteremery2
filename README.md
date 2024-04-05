@@ -12,7 +12,7 @@
 
 <h2>👨🏻‍🎓 Certifications </h2>
 
-- [A+](https://www.credly.com/badges/90419a1a-c1a4-4845-9e33-32b641efd484/public_url)
+- [CompTIA A+](https://www.credly.com/badges/90419a1a-c1a4-4845-9e33-32b641efd484/public_url) - [CompTIA CSIS](https://www.credly.com/badges/4d2dcfd4-6e4d-44dd-8d28-0f025ef66576/public_url)
 - [Network+](https://www.credly.com/badges/d62be013-08b8-4af2-a99c-693b8325cb77/public_url)
 - [Security+](https://www.credly.com/badges/04664721-eaed-4bc6-a24d-f688661f6a90/public_url)
 - [AZ-900](https://learn.microsoft.com/en-us/users/peteremery2/credentials/1d5264bf3c2b8ac5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
