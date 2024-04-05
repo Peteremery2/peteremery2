@@ -19,7 +19,7 @@
 - [AZ-900](https://learn.microsoft.com/en-us/users/peteremery2/credentials/1d5264bf3c2b8ac5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 📫 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
