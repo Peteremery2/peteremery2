@@ -5,7 +5,7 @@
 
 
 - <b>Azure/PowerShell</b>
-  - {Azure Sentinel global attacks project} (https://github.com/Peteremery2/Azuresentinelproject)
+  - {Azure Sentinel global attacks project}(https://github.com/Peteremery2/Azuresentinelproject)
   - [JWipe (Disk Wiping Utility Project)](https://github.com/Peteremery2/JWipeProject)
  
   - [Nessus Vulnerability Management Project)](https://github.com/Peteremery2/Nessusscanproject)
