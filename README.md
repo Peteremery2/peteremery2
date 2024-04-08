@@ -5,14 +5,15 @@
 
 
 - <b>Azure/PowerShell Projects</b>
-  - [Azure sentinel global attacks project)](https://github.com/Peteremery2/Azuresentinelproject)
+  - [Azure sentinel global attacks project](https://github.com/Peteremery2/Azuresentinelproject)
     
-  - [JWipe (Disk Wiping Utility Project)](https://github.com/Peteremery2/JWipeProject)
+  - [JWipe (Disk Wiping Utility Project](https://github.com/Peteremery2/JWipeProject)
  
-  - [Nessus Vulnerability Management Project)](https://github.com/Peteremery2/Nessusscanproject)
+  - [Nessus Vulnerability Management Project](https://github.com/Peteremery2/Nessusscanproject)
  
 - <b>General IT Projects</b>
-
+  - [Do You Have a Ticket Project](https://github.com/Peteremery2/doyouhaveaticketproject)
+    
 <h2>👨🏻‍🎓 Certifications </h2>
 
 - [CompTIA A+](https://www.credly.com/badges/90419a1a-c1a4-4845-9e33-32b641efd484/public_url) [CompTIA CSIS](https://www.credly.com/badges/4d2dcfd4-6e4d-44dd-8d28-0f025ef66576/public_url) [CompTIA CIOS](https://www.credly.com/badges/5ec8339b-94f1-4674-b496-7579ca6b6738/public_url)
