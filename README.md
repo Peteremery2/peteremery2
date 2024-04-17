@@ -13,6 +13,7 @@
  
 - <b>General IT Projects</b>
   - [Do You Have a Ticket Project](https://github.com/Peteremery2/doyouhaveaticketproject)
+  - [Office 365 Admin center Project](https://github.com/Peteremery2/365AdminProject)
     
 <h2>👨🏻‍🎓 Certifications </h2>
 
