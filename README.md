@@ -21,7 +21,7 @@
 - [CompTIA Network+](https://www.credly.com/badges/d62be013-08b8-4af2-a99c-693b8325cb77/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/04664721-eaed-4bc6-a24d-f688661f6a90/public_url)
 - [AZ-900](https://learn.microsoft.com/en-us/users/peteremery2/credentials/1d5264bf3c2b8ac5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 
+- [CompTIA ITF+](https://www.credly.com/badges/f359ff03-173d-4621-89b7-feb163b0cc1a/public_url)
 
 <h2> 🤳 📫 Connect with me:</h2>
 
